@@ -10,12 +10,22 @@
 
 - Presentation.pdf - The presentation of our project.
 
-- Data.txt - The link to download dataset.
-
-- The_CirCor_DigiScope_Dataset.pdf - The dataset's paper.
+- Data - Folder that includes:
+  
+    Data.txt - The link to download the dataset.
 
 - Requirements.txt - Requirements.
 
 - Notebook - Folder that includes:
-             The Jupyter Notebook:
+  
+             The Jupyter Notebook : Detection_of_Pneumonia_from_Chest_X-ray_Images.ipynb, where we select the ML model, train and evaluate it.
+  
+- Demo Notebook - Folder that includes:
+
+                svm_pkl.txt : The link to download the model.
+
+                Demo.py : User interface.
+  
+              
+  
              
