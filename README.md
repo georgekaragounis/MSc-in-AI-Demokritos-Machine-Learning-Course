@@ -25,7 +25,16 @@
                 svm_pkl.txt : The link to download the model.
 
                 Demo.py : User interface.
-  
-              
+
+## Set up:
+In order to run the whole process (check Requirements.txt) you should :
+
+ 1.  Download the dataset.
+ 2.  Execute the Detection_of_Pneumonia_from_Chest_X-ray_Images.ipynb.
+
+In order to run Demo code (check Requirements.txt) you should :
+
+ 1. Download the svm.pkl from the link in svm_pkl.txt.
+ 2. Execute the Demo.py.
   
              
